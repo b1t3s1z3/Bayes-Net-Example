@@ -1,9 +1,8 @@
 """BayesNet.py
 
 Author: Trevor Buteau
-Class: CISC 6525, Artificial Intelligence
 
-A program that reads in a text file and does ALL of the following:
+A program that reads in a text file (like those included in the repo) and does ALL of the following:
 1. Constructs a Boolean variable Bayesian network from the information in the 
 text file;
 2. prints out the joint distribution using the network;
